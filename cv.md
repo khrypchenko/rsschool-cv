@@ -3,12 +3,13 @@ ___Front-End Developer___
 
 ## Contacts
 
-* Email: khrypchenko.vlad@gmail.com
+* Email: [khrypchenko.vlad@gmail.com][email]
 * Telegram: [@khrypchenko][telegram]
 * Twitter: [@khrypchenko_vl][twitter]
 * [LinkedIn][linkedin]
 * [GitHub][github]
 
+[email]: mailto:khrypchenko.vlad@gmail.com
 [telegram]: https://t.me/khrypchenko
 [twitter]: https://twitter.com/khrypchenko_vl
 [linkedin]: https://www.linkedin.com/in/khrypchenko
